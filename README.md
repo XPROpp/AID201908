@@ -54,4 +54,4 @@ core.edutor=pycharm
 
 
 ```
-！[](./0qp.jpg)
+![](./0qp.jpg)
